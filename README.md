@@ -36,3 +36,8 @@ npm install -g http-server
 ```bash
 npm install -g http-server
 ```
+
+## 参考文献
+- [penpenpng/rx-nostr](https://github.com/penpenpng/rx-nostr/)
+- penpenpng "[ReactiveX で REQ する Nostr](https://speakerdeck.com/penpenpng/rx-de-req-suru-nostr)", Nostr 勉強会 \#3, 2023.
+
