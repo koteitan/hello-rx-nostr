@@ -5,10 +5,10 @@ rx-nostr のチュートリアルです
 - サーバーサイドスクリプトなく github pages 上で公開できるようにする
 
 ## ローカルでの動作確認方法
-- HTTP サーバーを立ち上げます
+- HTTP サーバーを立ち上げます[^1]
 ```bash
 cd hello-rx-nostr
-http-server #[^1]
+http-server
 ```
 - ブラウザを起動して http://localhost:8080 を開く
 - すると index.html が表示されます
