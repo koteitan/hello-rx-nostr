@@ -1,6 +1,6 @@
 # hello-rx-nostr
 - [rx-nostr](https://github.com/penpenpng/rx-nostr/) の簡単なチュートリアルです
-- デモサイト: https://penpenpng.github.io/hello-rx-nostr/
+- デモサイト: https://koteitan.github.io/hello-rx-nostr/
 
 ## チュートリアルの内容
 - このバージョンのチュートリアルでは、リレーから kind:1 を取得して 10 秒間画面に表示するというデモが動きます
