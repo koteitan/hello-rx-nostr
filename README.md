@@ -21,20 +21,18 @@ http-server
 
 ### npm と http-server のインストール
 [^1]: 上記の手順で http-server を使うためには下記のインストールが必要です
-#### npm
-##### ubuntu
+#### ubuntu
 ```bash
 sudo apt install npm
+npm install -g http-server
 ```
-##### mac
+#### mac
 ```bash
 brew install node@20
+npm install -g http-server
 ```
-##### Windows
-https://nodejs.org/ja/download/
-
-#### http-server
+#### Windows
+- https://nodejs.org/ja/download/
 ```bash
-sudo apt install npm
 npm install -g http-server
 ```
